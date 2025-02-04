@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Software Engineer | Backend Developer | Tech Enthusiast
 ------------------------
 
-I've been coding for 5 years after making a career switch, and it's been an incredible journey! My tech adventure started with HTML and frontend basics, but I quickly discovered my passion for **backend development**, **databases**, and **system architecture**.  
+I've been coding for 10 years after making a career switch, and it's been an incredible journey! My tech adventure started with HTML and frontend basics, but I quickly discovered my passion for **backend development**, **databases**, and **system architecture**.  
 
 💡 I love solving complex problems, optimizing performance, and building scalable systems. Whether it's designing APIs, handling databases, or automating workflows, I'm always up for a challenge.  
 
