@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khun
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Khun! 👋
 ============================================================================================================================
 
-Software Engineer & Developer
+🚀 Software Engineer | Backend Developer | Tech Enthusiast
 ------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
+I've been coding for 5 years after making a career switch, and it's been an incredible journey! My tech adventure started with HTML and frontend basics, but I quickly discovered my passion for **backend development**, **databases**, and **system architecture**.  
+
+💡 I love solving complex problems, optimizing performance, and building scalable systems. Whether it's designing APIs, handling databases, or automating workflows, I'm always up for a challenge.  
 
 *   🌍  I'm based in Pattaya, Thailand
 *   ✉️  You can contact me at [thanu.s@connserv.co](mailto:thanu.s@connserv.co)
@@ -44,5 +46,7 @@ Stuff I made
 Random thing I made
 ------------------------
 * <a href="https://secret.com" rel="nofollow">Secret</a>: Open coming soon
+
+🚀 Always learning, always building! Let's connect! 
 
 ![alt text](https://media0.giphy.com/media/1AoHoDSeioSEMqyTLh/source.gif)
